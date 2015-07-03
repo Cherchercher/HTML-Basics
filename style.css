@@ -1,0 +1,82 @@
+.header {width:1000px;
+         height:72px;background-color: #fffabe
+}
+
+.main-banner img{
+	width: 1000px;
+	height:400px;
+}
+.subtitle {
+	color:#6a6969;
+	list-style:none; 
+	display:inline;
+	font-size:16px; 
+	color:#515151;
+	margin:5px;}
+.main-content{width:100%;
+	        height:500px;
+	    }
+	    .left-image{height:300px;
+	                width:200px;
+	                margin:25px;
+	}
+.right-content{
+	height:300px;
+	width:600px;
+	margin:25px;
+}
+.main-schedule{
+width:100%;
+height:200px;
+}
+.footer{width:1000px;
+	    height:80px;
+
+}
+.days {
+	width:126px;
+	height:140px;
+	font-family: :Arial,Helvetica,sans-serif;
+	font-size:12px;
+	color:#6a6969;
+	display:inline-block;
+	border:none;
+	background:#fffabe;
+}
+
+
+.days ul {
+	list-style:none;
+	margin:0;
+	padding:0;
+	border:none;
+}
+.date {
+	margin-left:5px;
+	margin-top:10px;
+	border:none;
+}
+.date li{
+	margin-bottom:5px;
+	border:none;
+	height:33px;
+	width:126px;
+}
+.offer{
+	border: none;
+}
+.offer li {
+	border:none;
+	height:33px;
+	width:126px;
+}
+offer img { margin-left:20px;
+border:none;}
+
+#coconut{
+	background: #824603;
+	color:white;
+	border:none;
+	height:33px;}
+.content-right title{font-family: Arial, Helvetica, sans-serif;font-size: 20px; color:#6a6969;}
+ .content-right p{font-family: Arial, Helvetica,sans-serif;font-size:14px;color:#6a6969;}   		         
